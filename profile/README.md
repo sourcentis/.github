@@ -34,7 +34,7 @@ A comprehensive, open-source **information system cartography tool** designed to
 - Governance and access control management
 - Risk visualization and compliance tracking
 
-**Deployed in:** 30+ countries across hospitals (CHU Poitiers, GHT Alpes), research centers (CNRS), universities (UPEC), government agencies, and enterprises.
+**Deployed in:** 30+ countries across hospitals, research centers, universities, government agencies, and enterprises.
 
 **Community Recognition:**
 - 🏆 **OW2 Best Open Source Project 2024**
@@ -102,7 +102,7 @@ A dedicated open-source platform for **centralized management, planning, monitor
 - **15,000+** organizations downloading our tools
 - **30+ countries** with active installations
 - **500+ GitHub stars** for Mercator
-- **Trusted by:** Hospitals (CHU Poitiers, CH Soissons, CHPf), Universities (UPEC, Mines ParisTech), Research Centers (CNRS), Major Enterprises
+- **Trusted by:** Hospitals, Universities, Research Centers, Major Enterprises
 - **Recognition:** OW2 Best Project 2024, Linux Pratique, SSTIC, Hack.lu
 
 ---

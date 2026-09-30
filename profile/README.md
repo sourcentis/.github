@@ -1,8 +1,5 @@
-# Sourcentis — Open Source Cybersecurity Solutions
+# Sourcentis — Open Source Cybersecurity Solutions [![License GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue)](https://github.com/sourcentis/mercator/blob/main/LICENSE)
 
-![Mercator Stars](https://img.shields.io/github/stars/sourcentis/mercator?style=social)
-![Deming Stars](https://img.shields.io/github/stars/sourcentis/deming?style=social)
-[![License GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue)](https://github.com/sourcentis/mercator/blob/main/LICENSE)
 
 **Sourcentis** creates innovative open-source solutions for information security, trusted by hospitals, laboratories, universities, and banking institutions worldwide.
 
@@ -12,7 +9,8 @@ Our mission: **Empower organizations to master their IT systems and security com
 
 ## 🎯 Our Solutions
 
-### 🗺️ **Mercator** — IT System Cartography & CMDB
+### 🗺️ **Mercator** ![Mercator Stars](https://img.shields.io/github/stars/sourcentis/mercator?style=social)
+ IT System Cartography & CMDB
 
 A comprehensive, open-source **information system cartography tool** designed to help organizations understand, visualize, and manage their entire IT landscape — from business processes to physical infrastructure.
 
@@ -49,7 +47,8 @@ A comprehensive, open-source **information system cartography tool** designed to
 
 ---
 
-### 🛡️ **Deming** — Information Security Management System (ISMS) GRC
+### 🛡️ **Deming** ![Deming Stars](https://img.shields.io/github/stars/sourcentis/deming?style=social)
+Information Security Management System (ISMS) GRC
 
 A dedicated open-source platform for **centralized management, planning, monitoring, and reporting of security control effectiveness** — ensuring organizations stay compliant with ISO 27001, ISO 27004, NIS2, DORA, HDS, PCI-DSS, and more.
 

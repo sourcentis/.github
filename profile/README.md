@@ -9,7 +9,9 @@ Our mission: **Empower organizations to master their IT systems and security com
 
 ## 🎯 Our Solutions
 
-## **[Mercator](https://github.com/sourcentis/mercator)**  
+## [Mercator](https://github.com/sourcentis/mercator)
+
+[<img src="https://github.com/sourcentis/mercator/blob/1e4bfb6a433a90cf26b62f994ed0870f390f1b3d/public/images/mercator.png" width="200">](https://github.com/sourcentis/mercator)
 
 [![Latest Release](https://img.shields.io/github/release/sourcentis/mercator.svg?style=flat-square)](https://github.com/sourcentis/mercator/releases/latest)
 ![License](https://img.shields.io/github/license/sourcentis/mercator.svg?style=flat-square)
@@ -53,8 +55,9 @@ IT System Cartography & CMDB, a comprehensive, open-source **information system 
 - 💬 [Community Discussions](https://github.com/sourcentis/mercator/discussions)
 
 ---
-
 ## [Deming](https://github.com/sourcentis/deming)
+
+[<img src="https://github.com/sourcentis/deming/blob/6de2ae3bc6a8cdc13c2ba79a2aaba080c455a676/public/images/deming.png" width="200">](https://github.com/sourcentis/deming)
 
 [![Latest Release](https://img.shields.io/github/release/sourcentis/deming.svg?style=flat-square)](https://github.com/sourcentis/deming/releases/latest)
 ![License](https://img.shields.io/github/license/sourcentis/deming.svg?style=flat-square)

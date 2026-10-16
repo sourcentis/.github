@@ -6,8 +6,6 @@ Our mission: **Empower organizations to master their IT systems and security com
 
 ---
 
-## 🎯 Our Solutions
-
 ## [Mercator](https://github.com/sourcentis/mercator)
 
 [<img src="https://github.com/sourcentis/mercator/blob/1e4bfb6a433a90cf26b62f994ed0870f390f1b3d/public/images/mercator.png" width="200">](https://github.com/sourcentis/mercator)

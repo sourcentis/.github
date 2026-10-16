@@ -97,7 +97,7 @@ Information Security Management System (ISMS) GRC, a dedicated open-source platf
 - 💬 [Community Discussions](https://github.com/sourcentis/deming/discussions)
 
 ---
-## [PandoraBox](https://github.com/sourcentis/pandora-box)
+## [Pandora-Box](https://github.com/sourcentis/pandora-box)
 
 [<img src="https://github.com/sourcentis/pandora-box/blob/c85d9180c0ecd8d7e96383ea9e1d822719382155/docs/images/pandora-box.png" width="200">](https://github.com/sourcentis/pandora-box)
 

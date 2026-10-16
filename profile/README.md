@@ -2,7 +2,7 @@
 
 **Sourcentis** creates innovative open-source solutions for information security, trusted by hospitals, laboratories, universities, and banking institutions worldwide.
 
-Our mission: **Empower organizations to master their IT systems and security compliance — with tools that are pragmatic, transparent, and within reach.**
+Our mission: **Empower organizations to master their IT systems and security compliance - with tools that are pragmatic, transparent, and within reach.**
 
 ---
 
@@ -20,18 +20,18 @@ Our mission: **Empower organizations to master their IT systems and security com
 [![OW2 Project](https://img.shields.io/badge/OW2-Mercator-blue)](https://projects.ow2.org/view/mercator/)
 
 
-IT System Cartography & CMDB, a comprehensive, open-source **information system cartography tool** designed to help organizations understand, visualize, and manage their entire IT landscape — from business processes to physical infrastructure.
+IT System Cartography & CMDB, a comprehensive, open-source **information system cartography tool** designed to help organizations understand, visualize, and manage their entire IT landscape - from business processes to physical infrastructure.
 
 **Built on:** PHP, Laravel, Vue.js, PostgreSQL
 
 **Why Mercator?**
-- **ANSSI-aligned** — Follows French national cybersecurity authority (ANSSI) best practices
-- **100% Open Source** — GPL license, fully transparent, no lock-in
-- **7 Complementary Views** — From GDPR records to ecosystem dependencies, application stacks, infrastructure, and more
-- **Interactive Dependency Analysis** — Click any asset to explore upstream/downstream dependencies and detect single points of failure
-- **API-First** — Complete REST API for seamless integration with your existing tools
-- **BPMN 2.0 Support** — Bridge the gap between business processes and technical infrastructure
-- **Compliance-Ready** — Auto-generates maturity scores, audit reports (PDF, Excel, CSV), and NIS2/ISO 27001 compliance evidence
+- **ANSSI-aligned** - Follows French national cybersecurity authority (ANSSI) best practices
+- **100% Open Source** - GPL license, fully transparent, no lock-in
+- **7 Complementary Views** - From GDPR records to ecosystem dependencies, application stacks, infrastructure, and more
+- **Interactive Dependency Analysis** - Click any asset to explore upstream/downstream dependencies and detect single points of failure
+- **API-First** - Complete REST API for seamless integration with your existing tools
+- **BPMN 2.0 Support** - Bridge the gap between business processes and technical infrastructure
+- **Compliance-Ready** - Auto-generates maturity scores, audit reports (PDF, Excel, CSV), and NIS2/ISO 27001 compliance evidence
 
 **Key Features:**
 - Dynamic dashboards and asset tracking
@@ -65,18 +65,18 @@ IT System Cartography & CMDB, a comprehensive, open-source **information system 
 [![CI](https://img.shields.io/github/actions/workflow/status/sourcentis/deming/ci.yaml?style=flat-square&label=CI)](https://github.com/sourcentis/deming/actions/workflows/ci.yaml)
 [![Docker](https://img.shields.io/github/actions/workflow/status/sourcentis/deming/docker.yaml?style=flat-square&label=Docker)](https://github.com/sourcentis/deming/actions/workflows/docker.yaml)
 
-Information Security Management System (ISMS) GRC, a dedicated open-source platform for **centralized management, planning, monitoring, and reporting of security control effectiveness** — ensuring organizations stay compliant with ISO 27001, ISO 27004, NIS2, DORA, HDS, PCI-DSS, and more.
+Information Security Management System (ISMS) GRC, a dedicated open-source platform for **centralized management, planning, monitoring, and reporting of security control effectiveness** - ensuring organizations stay compliant with ISO 27001, ISO 27004, NIS2, DORA, HDS, PCI-DSS, and more.
 
 **Built on:** PHP, Laravel, Vue.js, PostgreSQL
 
 **Why Deming?**
-- **ISO 27004 Compliant** — Designed to measure and demonstrate control effectiveness, not just compliance checkboxes
-- **100% Open Source** — GPL license, full transparency, no proprietary modules
-- **Centralized Control Management** — Single source of truth for all security measures, evidence, and indicators
-- **Real-Time Dashboards** — Customizable KPIs for continuous ISMS improvement
-- **Flexible Referential Framework** — Out-of-the-box support for ISO 27001, DORA, NIS2, HDS, PCI-DSS; add custom referentials via Excel templates
-- **Evidence & Audit Trail** — Comprehensive tracking of all control activities and compliance actions
-- **Collaborative Workflows** — Assign responsibilities, schedule audits, track progress across teams
+- **ISO 27004 Compliant** - Designed to measure and demonstrate control effectiveness, not just compliance checkboxes
+- **100% Open Source** - GPL license, full transparency, no proprietary modules
+- **Centralized Control Management** - Single source of truth for all security measures, evidence, and indicators
+- **Real-Time Dashboards** - Customizable KPIs for continuous ISMS improvement
+- **Flexible Referential Framework** - Out-of-the-box support for ISO 27001, DORA, NIS2, HDS, PCI-DSS; add custom referentials via Excel templates
+- **Evidence & Audit Trail** - Comprehensive tracking of all control activities and compliance actions
+- **Collaborative Workflows** - Assign responsibilities, schedule audits, track progress across teams
 
 **Key Features:**
 - Control planning and scheduling with automatic reminders
@@ -112,12 +112,12 @@ USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks US
 **Built on:** Python, Debian, mkosi, ClamAV, YARA-X
 
 **Why PandoraBox?**
-- **Free, Auditable and Hardened** — An open alternative to commercial kiosks for healthcare, industry and public administration
-- **100% Open Source** — GPL license, from the kiosk software to the system image and the 3D-printed enclosure
-- **Several Detection Engines** — MalwareBazaar hashes, CIRCL Hashlookup, ClamAV, YARA-X with the YARA Forge rules, and heuristics for disguised programs and PDF with JavaScript
-- **Fail Closed** — A file that could not be fully scanned (encrypted archive, limit exceeded, engine error) is never reported as clean
-- **Hardened Image** — Read-only root filesystem protected by dm-verity, Secure Boot, USBGuard against BadUSB devices, no account and no login, each engine in a sandbox without network
-- **Works Offline** — Signed signature sets and system updates installed from a USB key, or downloaded through a dedicated channel
+- **Free, Auditable and Hardened** - An open alternative to commercial kiosks for healthcare, industry and public administration
+- **100% Open Source** - GPL license, from the kiosk software to the system image and the 3D-printed enclosure
+- **Several Detection Engines** - MalwareBazaar hashes, CIRCL Hashlookup, ClamAV, YARA-X with the YARA Forge rules, and heuristics for disguised programs and PDF with JavaScript
+- **Fail Closed** - A file that could not be fully scanned (encrypted archive, limit exceeded, engine error) is never reported as clean
+- **Hardened Image** - Read-only root filesystem protected by dm-verity, Secure Boot, USBGuard against BadUSB devices, no account and no login, each engine in a sandbox without network
+- **Works Offline** - Signed signature sets and system updates installed from a USB key, or downloaded through a dedicated channel
 
 **Key Features:**
 - Touch interface without buttons, customizable logo, colors, texts and language
@@ -145,7 +145,7 @@ USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks US
 | **Transparency** | Full source code available | Black box |
 | **Customization** | Modify, fork, adapt freely | Locked to vendor roadmap |
 | **Integration** | Full API, multiple connectors | Limited integrations |
-| **Lock-in** | None — you own your data | Vendor dependency |
+| **Lock-in** | None - you own your data | Vendor dependency |
 | **Compliance** | ANSSI-aligned, NIS2-ready | Generic compliance support |
 
 ### 📊 Impact & Adoption
@@ -223,11 +223,11 @@ Sourcentis offers **professional support contracts** including:
 ## 💡 Contributing
 
 We welcome contributions from the community! Whether you're:
-- 🐛 **Reporting bugs** — Open an issue with details
-- ✨ **Suggesting features** — Start a discussion first
-- 🔧 **Writing code** — Fork, develop, and open a pull request
-- 📚 **Improving docs** — Translations and clarity improvements are valued
-- 🤝 **Sharing feedback** — Use our discussion forums
+- 🐛 **Reporting bugs** - Open an issue with details
+- ✨ **Suggesting features** - Start a discussion first
+- 🔧 **Writing code** - Fork, develop, and open a pull request
+- 📚 **Improving docs** - Translations and clarity improvements are valued
+- 🤝 **Sharing feedback** - Use our discussion forums
 
 **Contributing to Mercator:** https://github.com/sourcentis/mercator/blob/main/CONTRIBUTING.md  
 **Contributing to Deming:** https://github.com/sourcentis/deming/blob/main/CONTRIBUTING.md  

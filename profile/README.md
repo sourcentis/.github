@@ -98,6 +98,42 @@ Information Security Management System (ISMS) GRC, a dedicated open-source platf
 - 💬 [Community Discussions](https://github.com/sourcentis/deming/discussions)
 
 ---
+## [PandoraBox](https://github.com/sourcentis/pandora-box)
+
+[<img src="https://github.com/sourcentis/pandora-box/blob/c85d9180c0ecd8d7e96383ea9e1d822719382155/docs/images/pandora-box.png" width="200">](https://github.com/sourcentis/pandora-box)
+
+![License](https://img.shields.io/github/license/sourcentis/pandora-box.svg?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sourcentis/pandora-box?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/sourcentis/pandora-box.svg?style=flat-square)
+[![CI](https://img.shields.io/github/actions/workflow/status/sourcentis/pandora-box/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/sourcentis/pandora-box/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue?style=flat-square)
+
+USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks USB keys before they reach a workstation: the user inserts a key, the kiosk scans every file with several detection engines, shows the dangerous files on its touch screen and removes them with a single touch.
+
+**Built on:** Python, Debian, mkosi, ClamAV, YARA-X
+
+**Why PandoraBox?**
+- **Free, Auditable and Hardened** — An open alternative to commercial kiosks for healthcare, industry and public administration
+- **100% Open Source** — GPL license, from the kiosk software to the system image and the 3D-printed enclosure
+- **Several Detection Engines** — MalwareBazaar hashes, CIRCL Hashlookup, ClamAV, YARA-X with the YARA Forge rules, and heuristics for disguised programs and PDF with JavaScript
+- **Fail Closed** — A file that could not be fully scanned (encrypted archive, limit exceeded, engine error) is never reported as clean
+- **Hardened Image** — Read-only root filesystem protected by dm-verity, Secure Boot, USBGuard against BadUSB devices, no account and no login, each engine in a sandbox without network
+- **Works Offline** — Signed signature sets and system updates installed from a USB key, or downloaded through a dedicated channel
+
+**Key Features:**
+- Touch interface without buttons, customizable logo, colors, texts and language
+- Quarantine of dangerous files and a JSON report for every scan
+- A/B system updates with automatic rollback
+- Maintenance without login: a signed USB key brings back the logs of the kiosk
+- Runs on a refurbished small computer (validated: Lenovo ThinkCentre M720q Tiny)
+
+**Get Started:**
+- 📖 [Documentation](https://sourcentis.github.io/pandora-box/)
+- 💾 [GitHub Repository](https://github.com/sourcentis/pandora-box)
+- 🚀 [Building the Image](https://sourcentis.github.io/pandora-box/build/)
+- 💬 [Community Discussions](https://github.com/sourcentis/pandora-box/discussions)
+
+---
 
 ## 🚀 Why Choose Sourcentis?
 
@@ -161,6 +197,12 @@ Sourcentis offers **professional support contracts** including:
 - **Issues:** https://github.com/sourcentis/deming/issues
 - **Discussions:** https://github.com/sourcentis/deming/discussions
 
+### PandoraBox
+- **Repository:** https://github.com/sourcentis/pandora-box
+- **Documentation:** https://sourcentis.github.io/pandora-box/
+- **Issues:** https://github.com/sourcentis/pandora-box/issues
+- **Discussions:** https://github.com/sourcentis/pandora-box/discussions
+
 ### Sourcentis
 - **Website:** https://www.sourcentis.com
 - **Blog:** https://www.sourcentis.com/blog/
@@ -175,7 +217,8 @@ Sourcentis offers **professional support contracts** including:
 **Backend:** PHP 8+, Laravel, RESTful API  
 **Database:** PostgreSQL  
 **Infrastructure:** Docker, Kubernetes-ready  
-**Deployment:** Self-hosted, on-premise
+**Deployment:** Self-hosted, on-premise  
+**Kiosk (PandoraBox):** Python, Debian image built with mkosi, Secure Boot, dm-verity
 
 ---
 
@@ -189,7 +232,8 @@ We welcome contributions from the community! Whether you're:
 - 🤝 **Sharing feedback** — Use our discussion forums
 
 **Contributing to Mercator:** https://github.com/sourcentis/mercator/blob/main/CONTRIBUTING.md  
-**Contributing to Deming:** https://github.com/sourcentis/deming/blob/main/CONTRIBUTING.md
+**Contributing to Deming:** https://github.com/sourcentis/deming/blob/main/CONTRIBUTING.md  
+**Contributing to PandoraBox:** https://github.com/sourcentis/pandora-box/blob/main/CONTRIBUTING.md
 
 ---
 
@@ -208,7 +252,7 @@ All Sourcentis projects are licensed under the **GNU General Public License v3.0
 ## 📢 Stay Updated
 
 - 🎤 **Blog:** [Sourcentis Blog](https://www.sourcentis.com/blog/)
-- 💬 **GitHub Discussions:** Active in both Mercator and Deming repositories
+- 💬 **GitHub Discussions:** Active in the Mercator, Deming and PandoraBox repositories
 - 📧 **Newsletter:** Subscribe on [Sourcentis.com](https://www.sourcentis.com)
 
 ---

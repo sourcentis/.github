@@ -13,8 +13,8 @@ Our mission: **Empower organizations to master their IT systems and security com
 
 [![Latest Release](https://img.shields.io/github/release/sourcentis/mercator.svg?style=flat-square)](https://github.com/sourcentis/mercator/releases/latest)
 ![License](https://img.shields.io/github/license/sourcentis/mercator.svg?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/sourcentis/mercator.svg?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/sourcentis/mercator?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/sourcentis/mercator.svg?style=flat-square)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mercator)](https://artifacthub.io/packages/search?repo=mercator)
 [![OW2 Project](https://img.shields.io/badge/OW2-Mercator-blue)](https://projects.ow2.org/view/mercator/)
 
@@ -54,10 +54,16 @@ IT System Cartography & CMDB, a comprehensive, open-source **information system 
 
 ---
 
-### 🛡️ **[Deming](https://github.com/sourcentis/deming)** ![Deming Stars](https://img.shields.io/github/stars/sourcentis/deming?style=social)
-Information Security Management System (ISMS) GRC
+## [Deming](https://github.com/sourcentis/deming)
 
-A dedicated open-source platform for **centralized management, planning, monitoring, and reporting of security control effectiveness** — ensuring organizations stay compliant with ISO 27001, ISO 27004, NIS2, DORA, HDS, PCI-DSS, and more.
+[![Latest Release](https://img.shields.io/github/release/sourcentis/deming.svg?style=flat-square)](https://github.com/sourcentis/deming/releases/latest)
+![License](https://img.shields.io/github/license/sourcentis/deming.svg?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sourcentis/deming?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/sourcentis/deming.svg?style=flat-square)
+[![CI](https://img.shields.io/github/actions/workflow/status/sourcentis/deming/ci.yaml?style=flat-square&label=CI)](https://github.com/sourcentis/deming/actions/workflows/ci.yaml)
+[![Docker](https://img.shields.io/github/actions/workflow/status/sourcentis/deming/docker.yaml?style=flat-square&label=Docker)](https://github.com/sourcentis/deming/actions/workflows/docker.yaml)
+
+Information Security Management System (ISMS) GRC, a dedicated open-source platform for **centralized management, planning, monitoring, and reporting of security control effectiveness** — ensuring organizations stay compliant with ISO 27001, ISO 27004, NIS2, DORA, HDS, PCI-DSS, and more.
 
 **Built on:** PHP, Laravel, Vue.js, PostgreSQL
 

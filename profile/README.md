@@ -1,4 +1,4 @@
-# Sourcentis — Open Source Cybersecurity Solutions 
+# Sourcentis - Open Source Cybersecurity Solutions 
 
 **Sourcentis** creates innovative open-source solutions for information security, trusted by hospitals, laboratories, universities, and banking institutions worldwide.
 

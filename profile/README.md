@@ -1,5 +1,4 @@
-# Sourcentis — Open Source Cybersecurity Solutions [![License GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue)](https://github.com/sourcentis/mercator/blob/main/LICENSE)
-
+# Sourcentis — Open Source Cybersecurity Solutions 
 
 **Sourcentis** creates innovative open-source solutions for information security, trusted by hospitals, laboratories, universities, and banking institutions worldwide.
 
@@ -134,8 +133,11 @@ USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks US
 - 💬 [Community Discussions](https://github.com/sourcentis/pandora-box/discussions)
 
 ---
+## [Sourcentis](https://www.sourcentis.com)
 
-## 🚀 Why Choose Sourcentis?
+[<img src="https://github.com/dbarzin/sourcentis/blob/3fc4b9777f3b24a28ff85dea941b1911d6ae9725/static/images/sourcentis.png" width="200">](https://www.sourcentis.com)
+
+### 🚀 Why Choose Sourcentis?
 
 | Feature | Sourcentis | Typical Proprietary Tools |
 |---------|-----------|---------------------------|
@@ -146,9 +148,7 @@ USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks US
 | **Lock-in** | None — you own your data | Vendor dependency |
 | **Compliance** | ANSSI-aligned, NIS2-ready | Generic compliance support |
 
----
-
-## 📊 Impact & Adoption
+### 📊 Impact & Adoption
 
 - **15,000+** organizations downloading our tools
 - **30+ countries** with active installations
@@ -156,9 +156,7 @@ USB Decontamination Kiosk, an open-source **"sheep-dip station"** that checks US
 - **Trusted by:** Hospitals, Universities, Research Centers, Major Enterprises
 - **Recognition:** OW2 Best Project 2024, Linux Pratique, SSTIC, Hack.lu
 
----
-
-## 🤝 Professional Support
+### 🤝 Professional Support
 
 ### For Organizations Requiring Service-Level Agreements
 

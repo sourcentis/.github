@@ -9,10 +9,17 @@ Our mission: **Empower organizations to master their IT systems and security com
 
 ## 🎯 Our Solutions
 
-### 🗺️ **[Mercator](https://github.com/sourcentis/mercator)** ![Mercator Stars](https://img.shields.io/github/stars/sourcentis/mercator?style=social)
- IT System Cartography & CMDB
+## **[Mercator](https://github.com/sourcentis/mercator)**  
 
-A comprehensive, open-source **information system cartography tool** designed to help organizations understand, visualize, and manage their entire IT landscape — from business processes to physical infrastructure.
+[![Latest Release](https://img.shields.io/github/release/sourcentis/mercator.svg?style=flat-square)](https://github.com/sourcentis/mercator/releases/latest)
+![License](https://img.shields.io/github/license/sourcentis/mercator.svg?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/sourcentis/mercator.svg?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sourcentis/mercator?style=flat-square)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mercator)](https://artifacthub.io/packages/search?repo=mercator)
+[![OW2 Project](https://img.shields.io/badge/OW2-Mercator-blue)](https://projects.ow2.org/view/mercator/)
+
+
+IT System Cartography & CMDB, a comprehensive, open-source **information system cartography tool** designed to help organizations understand, visualize, and manage their entire IT landscape — from business processes to physical infrastructure.
 
 **Built on:** PHP, Laravel, Vue.js, PostgreSQL
 

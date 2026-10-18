@@ -48,7 +48,7 @@ IT System Cartography & CMDB, a comprehensive, open-source **information system 
 **Get Started:**
 - 📖 [Documentation](https://sourcentis.github.io/mercator/en)
 - 💾 [GitHub Repository](https://github.com/sourcentis/mercator)
-- 🚀 [Installation Guide](https://github.com/sourcentis/mercator/blob/main/guides/INSTALL_VM.en.md)
+- 🚀 [Installation Guide](https://github.com/sourcentis/mercator/blob/master/guides/INSTALL_VM.md)
 - 💬 [Community Discussions](https://github.com/sourcentis/mercator/discussions)
 
 ---
